@@ -42,6 +42,7 @@ body {
     background-color: gray;
     padding: 5px;
     color: white;
+    border-radius: 5px;
 }
 
 /* Container */
